@@ -1,3 +1,5 @@
+[![](https://images.microbadger.com/badges/image/pteslenko/packer-qemu.svg)](https://microbadger.com/images/pteslenko/packer-qemu "Get your own image badge on microbadger.com")
+
 # packer-qemu
 Docker image for building qemu images with packer
 
