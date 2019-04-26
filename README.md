@@ -3,8 +3,8 @@
 # packer-qemu
 Docker image for building qemu images with packer
 
-## Test run
-docker run --rm -it --name packer-test pteslenko/packer-qemu --version
+## Check version
+    docker run --rm -it --name packer-test pteslenko/packer-qemu --version
 
 ## Build qemu based image
 
