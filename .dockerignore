@@ -1,0 +1,6 @@
+.git
+.gitignore
+.drone.yml
+*.code-workspace
+README.md
+Changelog.md
