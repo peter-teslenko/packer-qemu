@@ -1,6 +1,6 @@
-FROM hashicorp/packer:1.3.0
+FROM hashicorp/packer:1.4.0
 
-ARG VERSION=1.3.0
+ARG VERSION=1.4.0
 ARG BUILD_DATE
 ARG VCS_REF
 
